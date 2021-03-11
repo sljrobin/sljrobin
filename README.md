@@ -1,5 +1,5 @@
 ## Hi there!
-I'm __Simon Robin__ a.k.a. ___sljrobin___. I'm another __Information Security enthusiast__. Besides my passion for __Web Security__, I like to __create programs__. I code mostly in __Python__, but also in __C__ and __Bash__.
+I'm __Simon Robin__ a.k.a. ___sljrobin___. I'm an __Information Security enthusiast__. Besides my passion for __Web Security__, I like to __create programs__. I code mostly in __Python__, but also in __C__ and __Bash__.
 
 ## My recent creations
 * 🎧 [__Audious__](https://github.com/sljrobin/Audious): _A virtual assistant for music collections._
