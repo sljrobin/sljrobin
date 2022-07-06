@@ -1,5 +1,5 @@
 ## Hi there!
-I'm **Simon Robin** a.k.a. ***sljrobin***. I'm an **Information Security enthusiast**. Besides my passion for **Web Security**, I like to **create programs**. I code mostly in **Python**, but also in **C** and **Bash**.
+I'm **Simon Robin** a.k.a. ***sljrobin***. I'm an **Information Security enthusiast**. Besides my passion for **Web Security**, I like to **create programs**. Nowadays, I code mostly in **Python**. Before, I used to develop in **C** and **Bash**.
 
 ## My recent creations
 * 🎧 [**Audious**](https://github.com/sljrobin/Audious): *A virtual assistant for music collections.*
