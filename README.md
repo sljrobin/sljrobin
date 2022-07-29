@@ -9,6 +9,7 @@ I'm **Simon Robin** a.k.a. ***sljrobin***. I'm an **Information Security enthusi
 * ⚙️ [**.dotfiles**](https://github.com/sljrobin/.dotfiles): *Personal configuration files for Unix/Linux.*
 
 ## Outdated projects
+* 🔍 [**LoggyLogs**](https://github.com/sljrobin/LoggyLogs): *Another parser for server logs to find potential vulnerabilities.* This tool was created during a professional engagement, and was shared here for educational purposes only.
 * 🔧 [**ConfigThePenguin**](https://github.com/sljrobin/ConfigThePenguin): *Toolbox for automated Arch/Debian installation and configuration.* It was a list of different Bash scripts I was using when setting up a Virtual Machine based on [Arch Linux](https://archlinux.org/) or [Debian](https://www.debian.org/).
 * 📄 [**ReporTeX**](https://github.com/sljrobin/ReporTeX): *Automatic LaTeX report generation.* This Python script was shared with other students at the university. The goal was to help us to quickly generate a nice [LaTeX](https://www.latex-project.org/) template for weekly reports.
 * ⏳ [**listodo**](https://github.com/sljrobin/listodo): *A task lists generator for source code.* One of the first tools I used while coding. Then I switched to [IDEs](https://en.wikipedia.org/wiki/Integrated_development_environment) and managed my TODOs with them.
