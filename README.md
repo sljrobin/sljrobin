@@ -17,4 +17,3 @@ I'm **Simon Robin** a.k.a. ***sljrobin***. I'm an **Information Security enthusi
 ## Keep in touch
 * **Website:** [sljrobin.org](https://sljrobin.org)
 * **LinkedIn:** [sljrobin](https://www.linkedin.com/in/sljrobin)
-* **Twitter:** [@sljrobin](https://twitter.com/sljrobin)
