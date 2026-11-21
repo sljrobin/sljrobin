@@ -5,7 +5,7 @@ I'm **Simon Robin** a.k.a. ***sljrobin***. I'm an **Information Security enthusi
 * 🎧 [**Audious**](https://github.com/sljrobin/Audious): *A virtual assistant for music collections.*
 * 💰 [**MonitorMoney**](https://github.com/sljrobin/MonitorMoney): *A monitor to handle private expenses.*
 * 🩺 [**RodentSniffer**](https://github.com/sljrobin/RodentSniffer): *A network sniffer to analyse the most common network protocols.*
-* 🖋️ [**Website**](https://github.com/sljrobin/Website): *My little corner of the Internet.*
+* 🖋️ [**Website**](https://github.com/sljrobin/website): *My little corner of the Internet.*
 * ⚙️ [**.dotfiles**](https://github.com/sljrobin/.dotfiles): *Personal configuration files for Unix/Linux.*
 
 ## Outdated projects
